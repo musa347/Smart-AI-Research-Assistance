@@ -1,4 +1,5 @@
 Smart AI Research Assistance
+<img width="1920" alt="Screenshot 2025-02-28 at 15 54 53" src="https://github.com/user-attachments/assets/9c5cd818-4a6a-4077-af02-2e485a755cdb" />
 
 📌 Project Overview
 
